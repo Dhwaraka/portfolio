@@ -205,7 +205,7 @@ const content = {
       images: [
                "images/keyboard-4.jpg",
                "images/keyboard-3.jpg",
-               "images/keyboard-2.jpg",
+               "images/keyboard-5.jpg",
       ],
       placeholder: "keyboard",
       meta: [
