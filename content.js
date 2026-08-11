@@ -203,7 +203,7 @@ const content = {
       title: "Macro Keyboard with Programmable Keys",
       description: "Parametric Fusion 360 layout, Raspberry Pi, custom-soldered matrix. Each key reassigned to repetitive design shortcuts.",
       images: [
-               "images/keyboard-1.jpg",
+               "images/keyboard 4.jpg",
                "images/keyboard-3.jpg",
                "images/keyboard-2.jpg",
       ],
